@@ -27,7 +27,7 @@
 
 ![Задание 1](img/1.png)
 
-**Командра для синхронизации**
+**Команда для синхронизации**
 
 rsync -a --delete --checksum --exclude='.*/' --exclude='*/.*/' "$HOME/" /tmp/backup/
 
