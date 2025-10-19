@@ -50,6 +50,6 @@ rsync -a --delete --checksum --exclude='.*/' --exclude='*/.*/' "$HOME/" /tmp/bac
 ------
 
 **Скрипт на регулярное резервное копирование домашней директории**
-![backup_home.sh](./backup_home.sh)
+[backup_home.sh](./backup_home.sh)
 
 ------
